@@ -429,5 +429,16 @@ async def fetch_character_guide(slug: str) -> CharacterGuide | None:
     except Exception as e:
         print(f"Error fetching {slug}: {e}")
     return None
-                    
+
+async def update_all_guides():
+    characters = await fetch_characters()
+    if not characters:
+        print("No characters to update")
+        return
+    for char_id, summary in characters.items():
+        guide = await fetch_character_guide(summary.slug)
+        if guide:
+            print(f"Updated guide for {summary.name}")
+        else:
+            print(f"Failed to update guide for {summary.name}")                    
     

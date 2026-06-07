@@ -80,9 +80,6 @@ class CharacterSummary(BaseModel):
     slug: str
     icon_url: str
 
-
-
-
 class CharacterWithGuide(BaseModel):
     name: str
     slug: str

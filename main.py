@@ -14,6 +14,7 @@ def show_menu() -> None:
     print("1. Fetch guides from Prydwen")
     print("2. Render all character cards")
     print("3. Render a single character card")
+    print("4. Update guides (fetch latest characters and guides)")
     print("0. Exit")
 
 
@@ -96,12 +97,16 @@ async def render_single_card() -> None:
     path = await client.render_character(char_id)
     print(f"Rendered {entry.name} -> {path}")
 
+async def update_guides() -> None:
+    client = GuideClient()
+    await client.update_guides()
 
 async def main() -> None:
     actions = {
         "1": fetch_guides,
         "2": render_all_cards,
         "3": render_single_card,
+        "4": update_guides,
     }
 
     while True:

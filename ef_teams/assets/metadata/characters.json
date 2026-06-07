@@ -1,118 +1,147 @@
 {
     "chr_0002_endminm": {
         "name": "Endministrator",
-        "slug": "endministrator"
+        "slug": "endministrator",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/endministrator.png"
     },
     "chr_0003_endminf": {
         "name": "Endministrator",
-        "slug": "endministrator"
+        "slug": "endministrator",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/endministrator.png"
     },
     "chr_0014_aurora": {
         "name": "Snowshine",
-        "slug": "snowshine"
+        "slug": "snowshine",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/snowshine.png"
     },
     "chr_0025_ardelia": {
         "name": "Ardelia",
-        "slug": "ardelia"
+        "slug": "ardelia",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/ardelia.png"
     },
     "chr_0004_pelica": {
         "name": "Perlica",
-        "slug": "perlica"
+        "slug": "perlica",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/perlica.png"
     },
     "chr_0018_dapan": {
         "name": "Da Pan",
-        "slug": "da-pan"
+        "slug": "da-pan",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/da-pan.png"
     },
     "chr_0005_chen": {
         "name": "Chen Qianyu",
-        "slug": "chen-qianyu"
+        "slug": "chen-qianyu",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/chen-qianyu.png"
     },
     "chr_0019_karin": {
         "name": "Akekuri",
-        "slug": "akekuri"
+        "slug": "akekuri",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/akekuri.png"
     },
     "chr_0006_wolfgd": {
         "name": "Wulfgard",
-        "slug": "wulfgard"
+        "slug": "wulfgard",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/wulfgard.png"
     },
     "chr_0016_laevat": {
         "name": "Laevatain",
-        "slug": "laevatain"
+        "slug": "laevatain",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/laevatain.png"
     },
     "chr_0007_ikut": {
         "name": "Arclight",
-        "slug": "arclight"
+        "slug": "arclight",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/arclight.png"
     },
     "chr_0012_avywen": {
         "name": "Avywenna",
-        "slug": "avywenna"
+        "slug": "avywenna",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/avywenna.png"
     },
     "chr_0013_aglina": {
         "name": "Gilberta",
-        "slug": "gilberta"
+        "slug": "gilberta",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/gilberta.png"
     },
     "chr_0015_lifeng": {
         "name": "Lifeng",
-        "slug": "lifeng"
+        "slug": "lifeng",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/lifeng.png"
     },
     "chr_0024_deepfin": {
         "name": "Alesh",
-        "slug": "alesh"
+        "slug": "alesh",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/alesh.png"
     },
     "chr_0009_azrila": {
         "name": "Ember",
-        "slug": "ember"
+        "slug": "ember",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/ember.png"
     },
     "chr_0031_mifu": {
         "name": "Mifu",
-        "slug": "mi-fu"
+        "slug": "mifu",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/mifu.png"
     },
     "chr_0011_seraph": {
         "name": "Xaihi",
-        "slug": "xaihi"
+        "slug": "xaihi",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/xaihi.png"
     },
     "chr_0021_whiten": {
         "name": "Estella",
-        "slug": "estella"
+        "slug": "estella",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/estella.png"
     },
     "chr_0017_yvonne": {
         "name": "Yvonne",
-        "slug": "yvonne"
+        "slug": "yvonne",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/yvonne.png"
     },
     "chr_0020_meurs": {
         "name": "Catcher",
-        "slug": "catcher"
+        "slug": "catcher",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/catcher.png"
     },
     "chr_0022_bounda": {
         "name": "Fluorite",
-        "slug": "fluorite"
+        "slug": "fluorite",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/fluorite.png"
     },
     "chr_0026_lastrite": {
         "name": "Last Rite",
-        "slug": "last-rite"
+        "slug": "last-rite",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/last-rite.png"
     },
     "chr_0023_antal": {
         "name": "Antal",
-        "slug": "antal"
+        "slug": "antal",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/antal.png"
     },
     "chr_0027_tangtang": {
         "name": "Tangtang",
-        "slug": "tangtang"
+        "slug": "tangtang",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/tangtang.png"
     },
     "chr_0028_wulfa": {
         "name": "Rossi",
-        "slug": "rossi"
+        "slug": "rossi",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/rossi.png"
     },
     "chr_0029_pograni": {
         "name": "Pogranichnik",
-        "slug": "pogranichnik"
+        "slug": "pogranichnik",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/pogranichnik.png"
     },
     "chr_0030_zhuangfy": {
         "name": "Zhuang Fangyi",
-        "slug": "zhuang-fangyi"
+        "slug": "zhuang-fangyi",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/zhuang-fangyi.png"
     },
     "chr_9000_endmin": {
         "name": "Endministrator",
-        "slug": "endministrator"
+        "slug": "endministrator",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/endministrator.png"
     }
 }
