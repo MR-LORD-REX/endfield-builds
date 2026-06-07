@@ -1,0 +1,118 @@
+{
+    "chr_0002_endminm": {
+        "name": "Endministrator",
+        "slug": "endministrator"
+    },
+    "chr_0003_endminf": {
+        "name": "Endministrator",
+        "slug": "endministrator"
+    },
+    "chr_0014_aurora": {
+        "name": "Snowshine",
+        "slug": "snowshine"
+    },
+    "chr_0025_ardelia": {
+        "name": "Ardelia",
+        "slug": "ardelia"
+    },
+    "chr_0004_pelica": {
+        "name": "Perlica",
+        "slug": "perlica"
+    },
+    "chr_0018_dapan": {
+        "name": "Da Pan",
+        "slug": "da-pan"
+    },
+    "chr_0005_chen": {
+        "name": "Chen Qianyu",
+        "slug": "chen-qianyu"
+    },
+    "chr_0019_karin": {
+        "name": "Akekuri",
+        "slug": "akekuri"
+    },
+    "chr_0006_wolfgd": {
+        "name": "Wulfgard",
+        "slug": "wulfgard"
+    },
+    "chr_0016_laevat": {
+        "name": "Laevatain",
+        "slug": "laevatain"
+    },
+    "chr_0007_ikut": {
+        "name": "Arclight",
+        "slug": "arclight"
+    },
+    "chr_0012_avywen": {
+        "name": "Avywenna",
+        "slug": "avywenna"
+    },
+    "chr_0013_aglina": {
+        "name": "Gilberta",
+        "slug": "gilberta"
+    },
+    "chr_0015_lifeng": {
+        "name": "Lifeng",
+        "slug": "lifeng"
+    },
+    "chr_0024_deepfin": {
+        "name": "Alesh",
+        "slug": "alesh"
+    },
+    "chr_0009_azrila": {
+        "name": "Ember",
+        "slug": "ember"
+    },
+    "chr_0031_mifu": {
+        "name": "Mifu",
+        "slug": "mi-fu"
+    },
+    "chr_0011_seraph": {
+        "name": "Xaihi",
+        "slug": "xaihi"
+    },
+    "chr_0021_whiten": {
+        "name": "Estella",
+        "slug": "estella"
+    },
+    "chr_0017_yvonne": {
+        "name": "Yvonne",
+        "slug": "yvonne"
+    },
+    "chr_0020_meurs": {
+        "name": "Catcher",
+        "slug": "catcher"
+    },
+    "chr_0022_bounda": {
+        "name": "Fluorite",
+        "slug": "fluorite"
+    },
+    "chr_0026_lastrite": {
+        "name": "Last Rite",
+        "slug": "last-rite"
+    },
+    "chr_0023_antal": {
+        "name": "Antal",
+        "slug": "antal"
+    },
+    "chr_0027_tangtang": {
+        "name": "Tangtang",
+        "slug": "tangtang"
+    },
+    "chr_0028_wulfa": {
+        "name": "Rossi",
+        "slug": "rossi"
+    },
+    "chr_0029_pograni": {
+        "name": "Pogranichnik",
+        "slug": "pogranichnik"
+    },
+    "chr_0030_zhuangfy": {
+        "name": "Zhuang Fangyi",
+        "slug": "zhuang-fangyi"
+    },
+    "chr_9000_endmin": {
+        "name": "Endministrator",
+        "slug": "endministrator"
+    }
+}

@@ -1,0 +1,6 @@
+pillow
+aiohttp
+asyncio
+beautifulsoup4
+pydantic
+curl_cffi
