@@ -146,43 +146,6 @@
               "gear_set": "Swordmancer"
             }
           ]
-        },
-        {
-          "rank": "3",
-          "solo": "105.40%",
-          "team": "101.90%",
-          "options": [
-            {
-              "name": "Bonekrusha",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_5.webp"
-            }
-          ],
-          "comments": "Best 3P damage choice for Endmin by a small margin, which usually isn't enough to justify giving up the team utility Swordmancer provides, especially given you have to play around stagger windows in order to unlock its potential.Note: To get the listed results from this set, you'll need to make optimal use of stagger windows to take advantage of both kits having DMG% vs Stagger. If you can't, this set's performance will notably drop.",
-          "pieces": [
-            {
-              "type": "Armor",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_7.webp",
-              "name": "Bonekrusha Heavy Armor T1",
-              "gear_set": "Bonekrusha"
-            },
-            {
-              "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_2.webp",
-              "name": "Aethertech Gloves"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask",
-              "gear_set": "Bonekrusha"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask",
-              "gear_set": "Bonekrusha"
-            }
-          ]
         }
       ],
       "skill_orders": [
@@ -485,43 +448,6 @@
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_61.webp",
               "name": "Swordmancer Flint",
               "gear_set": "Swordmancer"
-            }
-          ]
-        },
-        {
-          "rank": "3",
-          "solo": "105.40%",
-          "team": "101.90%",
-          "options": [
-            {
-              "name": "Bonekrusha",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_5.webp"
-            }
-          ],
-          "comments": "Best 3P damage choice for Endmin by a small margin, which usually isn't enough to justify giving up the team utility Swordmancer provides, especially given you have to play around stagger windows in order to unlock its potential.Note: To get the listed results from this set, you'll need to make optimal use of stagger windows to take advantage of both kits having DMG% vs Stagger. If you can't, this set's performance will notably drop.",
-          "pieces": [
-            {
-              "type": "Armor",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_7.webp",
-              "name": "Bonekrusha Heavy Armor T1",
-              "gear_set": "Bonekrusha"
-            },
-            {
-              "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_2.webp",
-              "name": "Aethertech Gloves"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask",
-              "gear_set": "Bonekrusha"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask",
-              "gear_set": "Bonekrusha"
             }
           ]
         }
@@ -1529,42 +1455,6 @@
               "gear_set": "Aethertech"
             }
           ]
-        },
-        {
-          "rank": "4",
-          "options": [
-            {
-              "name": "Type 50 Yinglung",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_68.webp"
-            }
-          ],
-          "comments": "Type 50 Yinglung can allow a full build of matching Attributes for Da Pan and with lots of Physical DMG. The set offers permanent ATK increase and a massive DMG bonus to Combo Skills, but with the downside of lacking in Arts Intensity, a very strong stat for Da Pan, especially when he is dealing 4 stack Crushes.",
-          "pieces": [
-            {
-              "type": "Armor",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_70.webp",
-              "name": "Type 50 Yinglung Heavy Armor",
-              "gear_set": "Type 50 Yinglung"
-            },
-            {
-              "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_64.webp",
-              "name": "Swordmancer TAC Gloves",
-              "gear_set": "Swordmancer"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_74.webp",
-              "name": "Type 50 Yinglung Radar",
-              "gear_set": "Type 50 Yinglung"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_74.webp",
-              "name": "Type 50 Yinglung Radar",
-              "gear_set": "Type 50 Yinglung"
-            }
-          ]
         }
       ],
       "skill_orders": [
@@ -1735,6 +1625,19 @@
         },
         {
           "rank": "2",
+          "solo": "112.50%",
+          "team": "103.44%",
+          "options": [
+            {
+              "name": "Glorious Memory",
+              "potential": "(P5)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_66.webp",
+              "rarity": 6
+            }
+          ]
+        },
+        {
+          "rank": "3",
           "solo": "109.60%",
           "team": "102.60%",
           "options": [
@@ -1742,19 +1645,6 @@
               "name": "Grand Vision",
               "potential": "(P0)",
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_10.webp",
-              "rarity": 6
-            }
-          ]
-        },
-        {
-          "rank": "3",
-          "solo": "108.56%",
-          "team": "102.43%",
-          "options": [
-            {
-              "name": "Glorious Memory",
-              "potential": "(P5)",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_66.webp",
               "rarity": 6
             }
           ]
@@ -3562,19 +3452,18 @@
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_61.webp"
             }
           ],
-          "comments": "Swordmancer is a drop for Lifeng's personal damage due to having less optimal damage gear pieces, but its 3P Set Bonus has a much better supportive effect, which, if you're ok giving up some of Lifeng's personal output, can be worth the trade off. The 3P bonus of Swordmancer grants an on-hit effect that deals 10 Stagger every 15 seconds and increases all Stagger Lifeng outputs by 20%. It's important to keep in mind, though, in order to activate Swordmancer's on-hit effect, Lifeng must apply a Physical Status, which his opening Battle Skill against non-Vulnerable enemies doesn’t. This means you'll need to weave in additional Battle Skills while the enemy is already Vulnerable or rely on his Ultimate to trigger it instead.Note: With Swordmancer, our calculations don't reach a new stagger breakpoint, but if they allowed for an additional one over Bonekrusha, its overall team damage would be higher. This will also be the case in your own play; if Swordmancer gets an extra stagger, it can be better, if it doesn't, it can fall behind.",
+          "comments": "Swordmancer is the general best option for any Physical teams as the Stagger Efficiency Bonus can allow these teams to reach Stagger Nodes much faster. It increases all Stagger output by 20% on top of adding an extra hit that deals 15 Stagger and some Physical DMG every 15s when ever a Physical Status is applied (Lifeng's Battle Skill and Ultimate can activate this)",
           "pieces": [
             {
               "type": "Armor",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_62.webp",
-              "name": "Swordmancer Heavy Armor",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_118.webp",
+              "name": "Swordmancer Heavy Armor T1",
               "gear_set": "Swordmancer"
             },
             {
               "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_64.webp",
-              "name": "Swordmancer TAC Gloves",
-              "gear_set": "Swordmancer"
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_107.webp",
+              "name": "Frontiers Fiber Gloves T1"
             },
             {
               "type": "Kit",
@@ -3584,8 +3473,9 @@
             },
             {
               "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask"
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_61.webp",
+              "name": "Swordmancer Flint",
+              "gear_set": "Swordmancer"
             }
           ]
         },
@@ -4161,7 +4051,297 @@
   },
   "chr_0031_mifu": {
     "name": "Mifu",
-    "slug": "mifu"
+    "slug": "mi-fu",
+    "guide": {
+      "char_splash": "https://cdn.prydwen.gg/images/arknights-endfield/characters/mi-fu_full.webp",
+      "weapons": [
+        {
+          "rank": "1",
+          "solo": "131.2%",
+          "team": "117.9%",
+          "options": [
+            {
+              "name": "Amaranthine Tassel",
+              "potential": "(P5)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_69.webp",
+              "rarity": 6
+            }
+          ]
+        },
+        {
+          "rank": "2",
+          "solo": "100.00%",
+          "team": "100.00%",
+          "options": [
+            {
+              "name": "Amaranthine Tassel",
+              "potential": "(P0)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_69.webp",
+              "rarity": 6
+            }
+          ]
+        },
+        {
+          "rank": "3",
+          "solo": "91.00%",
+          "team": "94.80%",
+          "options": [
+            {
+              "name": "Exemplar",
+              "potential": "(P5)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_27.webp",
+              "rarity": 6
+            }
+          ]
+        },
+        {
+          "rank": "4",
+          "solo": "86.80%",
+          "team": "92.40%",
+          "options": [
+            {
+              "name": "Phantom Pain",
+              "potential": "(P5)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_71.webp",
+              "rarity": 6
+            }
+          ]
+        },
+        {
+          "rank": "5",
+          "solo": "79.70%",
+          "team": "88.30%",
+          "options": [
+            {
+              "name": "Exemplar",
+              "potential": "(P0)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_27.webp",
+              "rarity": 6
+            }
+          ]
+        },
+        {
+          "rank": "6",
+          "solo": "79.20%",
+          "team": "88.10%",
+          "options": [
+            {
+              "name": "Phantom Pain",
+              "potential": "(P0)",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/weapons/weapon_71.webp",
+              "rarity": 6
+            }
+          ]
+        }
+      ],
+      "gears": [
+        {
+          "rank": "1",
+          "solo": "100.00%",
+          "team": "100.00%",
+          "options": [
+            {
+              "name": "Grizzled Edge",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_129.webp"
+            }
+          ],
+          "comments": "Grizzled Edge is the tailor-made set for Mi Fu. It has all of her ideal attributes (Strength, Will) and their stat boosts, either Physical DMG or Arts Intensity, are ideal for her focus on Crush-type damage, as general Skill DMG increases wouldn't apply to it. It provides an unconditional 8% ATK up alongside a possible 36% in Physical DMG Dealt! Its activation is conditional on the wielder applying Crush or Breach, with the full value of the buff requiring both a 4 stacks of Vulnerability to be consumed as well as the target to be either under Physical Susceptibility, Staggered or have Originium Crystals on them. This isn't much of a problem for Mi Fu, however, as her Combo Skill applies Physical Susceptibility and triggers at 3+ stacks of Vulnerability, setting her up for a Crush right after to maximise this set's buff value. Note that Physical Statuses occur before the Reaction/Damage, which means that Grizzled Edge's set effect will be active in full even for Mi Fu's very first Crush.",
+          "pieces": [
+            {
+              "type": "Armor",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_80.webp",
+              "name": "Swordmancer Light Armor"
+            },
+            {
+              "type": "Gloves",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_127.webp",
+              "name": "Grizzled Edge Gauntlets",
+              "gear_set": "Grizzled Edge"
+            },
+            {
+              "type": "Kit",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_125.webp",
+              "name": "Grizzled Edge Push Knife",
+              "gear_set": "Grizzled Edge"
+            },
+            {
+              "type": "Kit",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_125.webp",
+              "name": "Grizzled Edge Push Knife",
+              "gear_set": "Grizzled Edge"
+            }
+          ]
+        }
+      ],
+      "skill_orders": [
+        "Battle Skill>=Basic Attack>Ultimate>Combo Skill"
+      ],
+      "teams": [
+        {
+          "name": "Team #1",
+          "members": [
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/1779530677177-53e1887951c38a9d216e86462abbfc80.webp",
+              "name": "Mi Fu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/chen-qianyu_icon.webp",
+              "name": "Chen Qianyu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/pogranichnik_icon.webp",
+              "name": "Pogranichnik"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/ardelia_icon.webp",
+              "name": "Ardelia"
+            }
+          ]
+        },
+        {
+          "name": "Team #2",
+          "members": [
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/1779530677177-53e1887951c38a9d216e86462abbfc80.webp",
+              "name": "Mi Fu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/rossi_icon.webp",
+              "name": "Rossi"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/pogranichnik_icon.webp",
+              "name": "Pogranichnik"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/akekuri_icon.webp",
+              "name": "Akekuri"
+            }
+          ]
+        },
+        {
+          "name": "Team #3",
+          "members": [
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/1779530677177-53e1887951c38a9d216e86462abbfc80.webp",
+              "name": "Mi Fu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/chen-qianyu_icon.webp",
+              "name": "Chen Qianyu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/pogranichnik_icon.webp",
+              "name": "Pogranichnik"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/lifeng_icon.webp",
+              "name": "Lifeng"
+            }
+          ]
+        },
+        {
+          "name": "Team #4",
+          "members": [
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/1779530677177-53e1887951c38a9d216e86462abbfc80.webp",
+              "name": "Mi Fu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/rossi_icon.webp",
+              "name": "Rossi"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/perlica_icon.webp",
+              "name": "Perlica"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/gilberta_icon.webp",
+              "name": "Gilberta"
+            }
+          ]
+        },
+        {
+          "name": "Team #5",
+          "members": [
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/1779530677177-53e1887951c38a9d216e86462abbfc80.webp",
+              "name": "Mi Fu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/chen-qianyu_icon.webp",
+              "name": "Chen Qianyu"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/estella_icon.webp",
+              "name": "Estella"
+            },
+            {
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/alesh_icon.webp",
+              "name": "Alesh"
+            }
+          ]
+        }
+      ],
+      "senergies": [
+        {
+          "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/chen-qianyu_icon.webp",
+          "element_icon": "https://cdn.prydwen.gg/images/arknights-endfield/icons/element_physical.webp",
+          "name": "Chen Qianyu",
+          "element": "Physical"
+        },
+        {
+          "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/pogranichnik_icon.webp",
+          "element_icon": "https://cdn.prydwen.gg/images/arknights-endfield/icons/element_physical.webp",
+          "name": "Pogranichnik",
+          "element": "Physical"
+        },
+        {
+          "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/rossi_icon.webp",
+          "element_icon": "https://cdn.prydwen.gg/images/arknights-endfield/icons/element_physical.webp",
+          "name": "Rossi",
+          "element": "Physical"
+        },
+        {
+          "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/ardelia_icon.webp",
+          "element_icon": "https://cdn.prydwen.gg/images/arknights-endfield/icons/element_nature.webp",
+          "name": "Ardelia",
+          "element": "Nature"
+        },
+        {
+          "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/lifeng_icon.webp",
+          "element_icon": "https://cdn.prydwen.gg/images/arknights-endfield/icons/element_physical.webp",
+          "name": "Lifeng",
+          "element": "Physical"
+        },
+        {
+          "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/estella_icon.webp",
+          "element_icon": "https://cdn.prydwen.gg/images/arknights-endfield/icons/element_cryo.webp",
+          "name": "Estella",
+          "element": "Cryo"
+        }
+      ],
+      "last_updated": "Patch 1.3",
+      "rating": {
+        "rank": "T0",
+        "role": "Damage",
+        "mode": "Umbral Monument"
+      },
+      "analysis": {
+        "pros": [
+          "Obscenely high damage output that’s easily accessible, owing to on-demand Crushes and an Ultimate that can build Vulnerability.",
+          "Inexpensive grouping with her Battle Skill 1 and decent range on Battle Skill 3, making her strong for both single and multi-target stages.",
+          "Flexible team and gearing options, slotting in anywhere older Physical carries did and far outperforming them, all the while having good alternatives to her Signature.",
+          "If Mi Fu can beat the Supreme Chief in the story, does that make her the True Chief?"
+        ],
+        "cons": [
+          "Rotations are often hard-gated by Vulnerability stack application, which can lead to tight timings and resource management needs to fit multiple Crush loops in a stagger.",
+          "Not using her Combo Skill or Ultimate before Battle Skill use makes for clunky and SP-inefficient transitions, limiting her burst options.",
+          "Doesn’t benefit from many stats and buffs, as “Crush” type attacks that make up much of her damage do not increase with Skill-related DMG bonuses (e.g. Link).",
+          "Litters everytime you Ultimate."
+        ]
+      }
+    }
   },
   "chr_0011_seraph": {
     "name": "Xaihi",
@@ -5785,7 +5965,7 @@
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_113.webp"
             }
           ],
-          "comments": "Qingbo set can increase all of Tangtang's Skill DMG - both Battle Skill and Ultimate with more focus on Battle Skill from the gear pieces. Reduces her Combo Skill cooldown by ~2s, allowing for more Whirlpool generation.",
+          "comments": "Qingbo set is the recommended build for Tangtang as it can increase all of Tangtang's Skill DMG - both Battle Skill and Ultimate with more focus on Battle Skill from the gear pieces, while also reducing her Combo Skill cooldown by ~2s, allowing for more Whirlpool generation.",
           "pieces": [
             {
               "type": "Armor",
@@ -5821,7 +6001,7 @@
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_7.webp"
             }
           ],
-          "comments": "Bonekrusha is the recommended build for an invested Tangtang as it has matching Attributes and ideal stats (Cryo DMG & Battle Skill DMG) to enable her strong Sub-DPS capabilities.\nNote: Some Ultimate Gain Effiiciency is recommended in fights that start with 0 Energy since her Ultimate is 90 Energy without additional help through her kit, and sometimes SP Return can intefere with your Energy gains.",
+          "comments": "Bonekrusha can be used for Sub-DPS Tangtang as it has matching Attributes and ideal stats (Cryo DMG & Battle Skill DMG) to enable her strong Sub-DPS capabilities.\nNote: Some Ultimate Gain Effiiciency is recommended in fights that start with 0 Energy since her Ultimate is 90 Energy without additional help through her kit, and sometimes SP Return can intefere with your Energy gains.",
           "pieces": [
             {
               "type": "Armor",
@@ -6357,7 +6537,7 @@
           "options": [
             {
               "name": "Frontiers",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_93.webp"
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_107.webp"
             }
           ],
           "comments": "Frontiers is a set that can be easily activated by Pog through his Combo Skill, making it one of his more generic and flexible options. However, the stats on his best pieces are still all over the place with offensive stats through Physical DMG from Kits but major stats mismatch on the armor results in low Attributes. Frontiers is neither his best damaging or supporting option; but it is recommended due to the ease of usage in any of his teams. For those with optimized Physical team rotations it is recommended to check his other sets.",
@@ -6370,61 +6550,26 @@
             },
             {
               "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_75.webp",
-              "name": "Hot Work Gloves",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_107.webp",
+              "name": "Frontiers Fiber Gloves T1",
+              "gear_set": "Frontiers"
+            },
+            {
+              "type": "Kit",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_93.webp",
+              "name": "Frontiers O2 Tube",
+              "gear_set": "Frontiers"
+            },
+            {
+              "type": "Kit",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_32.webp",
+              "name": "Hot Work Power Cartridge",
               "gear_set": "Hot Work"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_93.webp",
-              "name": "Frontiers O2 Tube",
-              "gear_set": "Frontiers"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_93.webp",
-              "name": "Frontiers O2 Tube",
-              "gear_set": "Frontiers"
             }
           ]
         },
         {
           "rank": "2",
-          "options": [
-            {
-              "name": "Swordmancer",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_62.webp"
-            }
-          ],
-          "comments": "Swordmancer is a set that is only valuable on Breach Pog, as the set requires him to trigger a Physical Status. Swordmancer increases all his Stagger output on top of adding a hit with 10 Stagger can allow enemies to be Staggered quicker. The pieces also offer Arts Intensity which is his most valuable stat; can further amplify the Physical DMG Taken debuff from Breach, which is ideal in Physical teams where Pog is Breaching with high Vulnerability stacks, notably against Bosses where you can take advantage of the long debuff duration from Breach.",
-          "pieces": [
-            {
-              "type": "Armor",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_62.webp",
-              "name": "Swordmancer Heavy Armor",
-              "gear_set": "Swordmancer"
-            },
-            {
-              "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_39.webp",
-              "name": "LYNX Gloves"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_81.webp",
-              "name": "Swordmancer NAV Beacon",
-              "gear_set": "Swordmancer"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_81.webp",
-              "name": "Swordmancer NAV Beacon",
-              "gear_set": "Swordmancer"
-            }
-          ]
-        },
-        {
-          "rank": "3",
           "options": [
             {
               "name": "Hot Work",
@@ -6455,6 +6600,41 @@
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_32.webp",
               "name": "Hot Work Power Cartridge",
               "gear_set": "Hot Work"
+            }
+          ]
+        },
+        {
+          "rank": "3",
+          "options": [
+            {
+              "name": "Swordmancer",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_62.webp"
+            }
+          ],
+          "comments": "Swordmancer is a set that is only valuable on Breach Pog, as the set requires him to trigger a Physical Status. Swordmancer increases all his Stagger output on top of adding a hit with 10 Stagger can allow enemies to be Staggered quicker. The pieces also offer Arts Intensity which is his most valuable stat; can further amplify the Physical DMG Taken debuff from Breach, which is ideal in Physical teams where Pog is Breaching with high Vulnerability stacks, notably against Bosses where you can take advantage of the long debuff duration from Breach.",
+          "pieces": [
+            {
+              "type": "Armor",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_62.webp",
+              "name": "Swordmancer Heavy Armor",
+              "gear_set": "Swordmancer"
+            },
+            {
+              "type": "Gloves",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_39.webp",
+              "name": "LYNX Gloves"
+            },
+            {
+              "type": "Kit",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_81.webp",
+              "name": "Swordmancer NAV Beacon",
+              "gear_set": "Swordmancer"
+            },
+            {
+              "type": "Kit",
+              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_81.webp",
+              "name": "Swordmancer NAV Beacon",
+              "gear_set": "Swordmancer"
             }
           ]
         }
@@ -7040,43 +7220,6 @@
               "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_61.webp",
               "name": "Swordmancer Flint",
               "gear_set": "Swordmancer"
-            }
-          ]
-        },
-        {
-          "rank": "3",
-          "solo": "105.40%",
-          "team": "101.90%",
-          "options": [
-            {
-              "name": "Bonekrusha",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_5.webp"
-            }
-          ],
-          "comments": "Best 3P damage choice for Endmin by a small margin, which usually isn't enough to justify giving up the team utility Swordmancer provides, especially given you have to play around stagger windows in order to unlock its potential.Note: To get the listed results from this set, you'll need to make optimal use of stagger windows to take advantage of both kits having DMG% vs Stagger. If you can't, this set's performance will notably drop.",
-          "pieces": [
-            {
-              "type": "Armor",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_7.webp",
-              "name": "Bonekrusha Heavy Armor T1",
-              "gear_set": "Bonekrusha"
-            },
-            {
-              "type": "Gloves",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_2.webp",
-              "name": "Aethertech Gloves"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask",
-              "gear_set": "Bonekrusha"
-            },
-            {
-              "type": "Kit",
-              "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/gear/gear_9.webp",
-              "name": "Bonekrusha Mask",
-              "gear_set": "Bonekrusha"
             }
           ]
         }
