@@ -207,7 +207,7 @@ class CharacterCardRenderer:
 
     def _draw_copyright(self, draw: ImageDraw.ImageDraw, y: int) -> int:
         font = get_font(13)
-        prefix = f"© {AUTHOR_NAME}  "
+        prefix = f""
         link = AUTHOR_URL.replace("https://", "")
         draw.text((MARGIN, y), prefix, fill=TEXT_MUTED, font=font)
         pw, _ = text_size(draw, prefix, font)
