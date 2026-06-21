@@ -172,28 +172,8 @@ Each rendered PNG card is **1080×1940 pixels** and includes:
    - Element type indicators
    - Full character icons with names
 
-### Example Card Layout:
-```
-┌─────────────────────────────────────┐
-│        CHARACTER SPLASH ART         │
-│                                     │
-├─────────────────┬─────────────────┤
-│   CHARACTER     │  T0.5 - ENABLER │
-│     NAME        │                 │
-│                 │ PROS (green)    │
-│                 │ CONS (red)      │
-├─────────────────────────────────────┤
-│ WEAPON (1-5 ranked recommendations) │
-├─────────────────────────────────────┤
-│ GEAR (Best Gear | Alt Gear #2 #3)   │
-├─────────────────────────────────────┤
-│ SKILL PRIORITY (Build paths)        │
-├─────────────────────────────────────┤
-│ TEAM COMP (Multiple teams shown)    │
-├─────────────────────────────────────┤
-│ SYNERGY (Compatible characters)     │
-└─────────────────────────────────────┘
-```
+### Example Card:
+![endministrator.png](https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/endministrator.png)
 
 ## Data Models
 
