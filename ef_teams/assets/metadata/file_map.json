@@ -6,68 +6,12 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/endministrator.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/endministrator_icon.webp"
   },
-  "perlica": {
-    "char_id": "chr_0004_pelica",
-    "name": "Perlica",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/perlica.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/perlica.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/perlica_icon.webp"
-  },
   "ember": {
     "char_id": "chr_0009_azrila",
     "name": "Ember",
     "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/ember.png",
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/ember.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/ember_icon.webp"
-  },
-  "chen-qianyu": {
-    "char_id": "chr_0005_chen",
-    "name": "Chen Qianyu",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/chen-qianyu.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/chen-qianyu.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/chen-qianyu_icon.webp"
-  },
-  "akekuri": {
-    "char_id": "chr_0019_karin",
-    "name": "Akekuri",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/akekuri.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/akekuri.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/akekuri_icon.webp"
-  },
-  "wulfgard": {
-    "char_id": "chr_0006_wolfgd",
-    "name": "Wulfgard",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/wulfgard.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/wulfgard.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/wulfgard_icon.webp"
-  },
-  "antal": {
-    "char_id": "chr_0023_antal",
-    "name": "Antal",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/antal.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/antal.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/antal_icon.webp"
-  },
-  "tangtang": {
-    "char_id": "chr_0027_tangtang",
-    "name": "Tangtang",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/tangtang.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/tangtang.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/tangtang_icon.webp"
-  },
-  "pogranichnik": {
-    "char_id": "chr_0029_pograni",
-    "name": "Pogranichnik",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/pogranichnik.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/pogranichnik.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/pogranichnik_icon.webp"
-  },
-  "arclight": {
-    "char_id": "chr_0007_ikut",
-    "name": "Arclight",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/arclight.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/arclight.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/arclight_icon.webp"
   },
   "gilberta": {
     "char_id": "chr_0013_aglina",
@@ -76,6 +20,48 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/gilberta.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/gilberta_icon.webp"
   },
+  "perlica": {
+    "char_id": "chr_0004_pelica",
+    "name": "Perlica",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/perlica.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/perlica.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/perlica_icon.webp"
+  },
+  "chen-qianyu": {
+    "char_id": "chr_0005_chen",
+    "name": "Chen Qianyu",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/chen-qianyu.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/chen-qianyu.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/chen-qianyu_icon.webp"
+  },
+  "wulfgard": {
+    "char_id": "chr_0006_wolfgd",
+    "name": "Wulfgard",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/wulfgard.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/wulfgard.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/wulfgard_icon.webp"
+  },
+  "arclight": {
+    "char_id": "chr_0007_ikut",
+    "name": "Arclight",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/arclight.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/arclight.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/arclight_icon.webp"
+  },
+  "typhoeus": {
+    "char_id": "chr_0034_typhoea",
+    "name": "Typhoeus",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/typhoeus.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/typhoeus.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/typhoeus_icon.webp"
+  },
+  "liino": {
+    "char_id": "chr_0035_liino",
+    "name": "Liino",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/liino.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/liino.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/liino_icon.webp"
+  },
   "xaihi": {
     "char_id": "chr_0011_seraph",
     "name": "Xaihi",
@@ -83,12 +69,12 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/xaihi.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/xaihi_icon.webp"
   },
-  "alesh": {
-    "char_id": "chr_0024_deepfin",
-    "name": "Alesh",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/alesh.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/alesh.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/alesh_icon.webp"
+  "pogranichnik": {
+    "char_id": "chr_0029_pograni",
+    "name": "Pogranichnik",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/pogranichnik.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/pogranichnik.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/pogranichnik_icon.webp"
   },
   "avywenna": {
     "char_id": "chr_0012_avywen",
@@ -96,13 +82,6 @@
     "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/avywenna.png",
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/avywenna.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/avywenna_icon.webp"
-  },
-  "camille": {
-    "char_id": "chr_0033_camille",
-    "name": "Camille",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/camille.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/camille.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/camille_icon.webp"
   },
   "snowshine": {
     "char_id": "chr_0014_aurora",
@@ -118,12 +97,12 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/lifeng.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/lifeng_icon.webp"
   },
-  "liino": {
-    "char_id": "chr_0035_liino",
-    "name": "Liino",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/liino.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/liino.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/liino_icon.webp"
+  "antal": {
+    "char_id": "chr_0023_antal",
+    "name": "Antal",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/antal.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/antal.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/antal_icon.webp"
   },
   "laevatain": {
     "char_id": "chr_0016_laevat",
@@ -132,6 +111,13 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/laevatain.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/laevatain_icon.webp"
   },
+  "camille": {
+    "char_id": "chr_0033_camille",
+    "name": "Camille",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/camille.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/camille.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/camille_icon.webp"
+  },
   "yvonne": {
     "char_id": "chr_0017_yvonne",
     "name": "Yvonne",
@@ -139,12 +125,12 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/yvonne.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/yvonne_icon.webp"
   },
-  "fluorite": {
-    "char_id": "chr_0022_bounda",
-    "name": "Fluorite",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/fluorite.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/fluorite.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/fluorite_icon.webp"
+  "ardelia": {
+    "char_id": "chr_0025_ardelia",
+    "name": "Ardelia",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/ardelia.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/ardelia.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/ardelia_icon.webp"
   },
   "da-pan": {
     "char_id": "chr_0018_dapan",
@@ -152,6 +138,13 @@
     "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/da-pan.png",
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/da-pan.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/da-pan_icon.webp"
+  },
+  "akekuri": {
+    "char_id": "chr_0019_karin",
+    "name": "Akekuri",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/akekuri.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/akekuri.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/akekuri_icon.webp"
   },
   "catcher": {
     "char_id": "chr_0020_meurs",
@@ -167,12 +160,19 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/estella.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/estella_icon.webp"
   },
-  "ardelia": {
-    "char_id": "chr_0025_ardelia",
-    "name": "Ardelia",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/ardelia.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/ardelia.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/ardelia_icon.webp"
+  "fluorite": {
+    "char_id": "chr_0022_bounda",
+    "name": "Fluorite",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/fluorite.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/fluorite.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/fluorite_icon.webp"
+  },
+  "alesh": {
+    "char_id": "chr_0024_deepfin",
+    "name": "Alesh",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/alesh.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/alesh.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/alesh_icon.webp"
   },
   "last-rite": {
     "char_id": "chr_0026_lastrite",
@@ -181,13 +181,6 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/last-rite.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/last-rite_icon.webp"
   },
-  "rossi": {
-    "char_id": "chr_0028_wulfa",
-    "name": "Rossi",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/rossi.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/rossi.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/rossi_icon.webp"
-  },
   "zhuang-fangyi": {
     "char_id": "chr_0030_zhuangfy",
     "name": "Zhuang Fangyi",
@@ -195,12 +188,26 @@
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/zhuang-fangyi.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/zhuang-fangyi_icon.webp"
   },
+  "tangtang": {
+    "char_id": "chr_0027_tangtang",
+    "name": "Tangtang",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/tangtang.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/tangtang.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/tangtang_icon.webp"
+  },
+  "rossi": {
+    "char_id": "chr_0028_wulfa",
+    "name": "Rossi",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/rossi.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/rossi.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/rossi_icon.webp"
+  },
   "mifu": {
     "char_id": "chr_0031_mifu",
     "name": "Mifu",
-    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/mi-fu.png",
-    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/mi-fu.png",
-    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/1779530677177-53e1887951c38a9d216e86462abbfc80.webp"
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/mifu.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/mifu.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/mifu_icon.webp"
   },
   "arcane": {
     "char_id": "chr_0032_lizhiyan",
