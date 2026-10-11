@@ -3,10 +3,6 @@
     "name": "Endministrator",
     "slug": "endministrator"
   },
-  "chr_0009_azrila": {
-    "name": "Ember",
-    "slug": "ember"
-  },
   "chr_0013_aglina": {
     "name": "Gilberta",
     "slug": "gilberta"
@@ -19,33 +15,49 @@
     "name": "Perlica",
     "slug": "perlica"
   },
+  "chr_0020_meurs": {
+    "name": "Catcher",
+    "slug": "catcher"
+  },
+  "chr_0038_purrche": {
+    "name": "Purrchena",
+    "slug": "purrchena"
+  },
   "chr_0005_chen": {
     "name": "Chen Qianyu",
     "slug": "chen-qianyu"
+  },
+  "chr_0028_wulfa": {
+    "name": "Rossi",
+    "slug": "rossi"
+  },
+  "chr_0029_pograni": {
+    "name": "Pogranichnik",
+    "slug": "pogranichnik"
+  },
+  "chr_0032_lizhiyan": {
+    "name": "Arcane",
+    "slug": "arcane"
   },
   "chr_0006_wolfgd": {
     "name": "Wulfgard",
     "slug": "wulfgard"
   },
+  "chr_0031_mifu": {
+    "name": "Mifu",
+    "slug": "mifu"
+  },
   "chr_0007_ikut": {
     "name": "Arclight",
     "slug": "arclight"
   },
-  "chr_0034_typhoea": {
-    "name": "Typhoeus",
-    "slug": "typhoeus"
-  },
-  "chr_0035_liino": {
-    "name": "Liino",
-    "slug": "liino"
+  "chr_0009_azrila": {
+    "name": "Ember",
+    "slug": "ember"
   },
   "chr_0011_seraph": {
     "name": "Xaihi",
     "slug": "xaihi"
-  },
-  "chr_0029_pograni": {
-    "name": "Pogranichnik",
-    "slug": "pogranichnik"
   },
   "chr_0012_avywen": {
     "name": "Avywenna",
@@ -55,9 +67,25 @@
     "name": "Snowshine",
     "slug": "snowshine"
   },
+  "chr_0017_yvonne": {
+    "name": "Yvonne",
+    "slug": "yvonne"
+  },
+  "chr_0025_ardelia": {
+    "name": "Ardelia",
+    "slug": "ardelia"
+  },
+  "chr_0027_tangtang": {
+    "name": "Tangtang",
+    "slug": "tangtang"
+  },
   "chr_0015_lifeng": {
     "name": "Lifeng",
     "slug": "lifeng"
+  },
+  "chr_0018_dapan": {
+    "name": "Da Pan",
+    "slug": "da-pan"
   },
   "chr_0023_antal": {
     "name": "Antal",
@@ -67,68 +95,44 @@
     "name": "Laevatain",
     "slug": "laevatain"
   },
-  "chr_0033_camille": {
-    "name": "Camille",
-    "slug": "camille"
-  },
-  "chr_0017_yvonne": {
-    "name": "Yvonne",
-    "slug": "yvonne"
-  },
-  "chr_0025_ardelia": {
-    "name": "Ardelia",
-    "slug": "ardelia"
-  },
-  "chr_0018_dapan": {
-    "name": "Da Pan",
-    "slug": "da-pan"
-  },
   "chr_0019_karin": {
     "name": "Akekuri",
     "slug": "akekuri"
-  },
-  "chr_0020_meurs": {
-    "name": "Catcher",
-    "slug": "catcher"
   },
   "chr_0021_whiten": {
     "name": "Estella",
     "slug": "estella"
   },
+  "chr_0026_lastrite": {
+    "name": "Last Rite",
+    "slug": "last-rite"
+  },
   "chr_0022_bounda": {
     "name": "Fluorite",
     "slug": "fluorite"
+  },
+  "chr_0034_typhoea": {
+    "name": "Typhoeus",
+    "slug": "typhoeus"
+  },
+  "chr_0035_liino": {
+    "name": "Liino",
+    "slug": "liino"
   },
   "chr_0024_deepfin": {
     "name": "Alesh",
     "slug": "alesh"
   },
-  "chr_0026_lastrite": {
-    "name": "Last Rite",
-    "slug": "last-rite"
-  },
   "chr_0030_zhuangfy": {
     "name": "Zhuang Fangyi",
     "slug": "zhuang-fangyi"
   },
-  "chr_0027_tangtang": {
-    "name": "Tangtang",
-    "slug": "tangtang"
-  },
-  "chr_0028_wulfa": {
-    "name": "Rossi",
-    "slug": "rossi"
+  "chr_0033_camille": {
+    "name": "Camille",
+    "slug": "camille"
   },
   "chr_9000_endmin": {
     "name": "Endministrator",
     "slug": "endministrator"
-  },
-  "chr_0031_mifu": {
-    "name": "Mifu",
-    "slug": "mifu"
-  },
-  "chr_0032_lizhiyan": {
-    "name": "Arcane",
-    "slug": "arcane"
   }
 }
