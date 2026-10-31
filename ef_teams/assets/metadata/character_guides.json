@@ -134,5 +134,9 @@
   "chr_9000_endmin": {
     "name": "Endministrator",
     "slug": "endministrator"
+  },
+  "chr_0036_jsspsi": {
+    "name": "Si",
+    "slug": "si"
   }
 }

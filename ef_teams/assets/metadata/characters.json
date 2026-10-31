@@ -168,5 +168,10 @@
         "name": "Endministrator",
         "slug": "endministrator",
         "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/endministrator.png"
+    },
+    "chr_0036_jsspsi": {
+        "name": "Si",
+        "slug": "si",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/si.png"
     }
 }
