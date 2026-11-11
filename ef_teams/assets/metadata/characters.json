@@ -173,5 +173,10 @@
         "name": "Si",
         "slug": "si",
         "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/si.png"
+    },
+    "chr_0037_minghe": {
+        "name": "Argent Flow",
+        "slug": "argent-flow",
+        "icon_url": "https://endfieldtools.dev/assets/images/endfield/charhorheadicon/argent-flow.png"
     }
 }

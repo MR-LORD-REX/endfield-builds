@@ -229,5 +229,12 @@
     "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/si.png",
     "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/si.png",
     "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/si_icon.webp"
+  },
+  "argent-flow": {
+    "char_id": "chr_0037_minghe",
+    "name": "Argent Flow",
+    "raw_url": "https://raw.githubusercontent.com/MR-LORD-REX/endfield-builds/main/output/argent-flow.png",
+    "image_url": "https://github.com/MR-LORD-REX/endfield-builds/blob/main/output/argent-flow.png",
+    "icon_url": "https://cdn.prydwen.gg/images/arknights-endfield/characters/argent-flow_icon.webp"
   }
 }

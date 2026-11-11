@@ -138,5 +138,9 @@
   "chr_0036_jsspsi": {
     "name": "Si",
     "slug": "si"
+  },
+  "chr_0037_minghe": {
+    "name": "Argent Flow",
+    "slug": "argent-flow"
   }
 }
